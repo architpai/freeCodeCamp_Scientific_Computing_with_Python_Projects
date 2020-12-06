@@ -1,0 +1,2 @@
+# freeCodeCamp_Scientific_Computing_with_Python_Projects
+ Projects completed in freeCodeCamps Scientific Computing with Python course
